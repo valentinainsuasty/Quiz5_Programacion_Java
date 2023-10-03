@@ -39,7 +39,7 @@ public class Biblioteca {
     }
 
     /**
-     * Método para mostrar el libro
+     * Método para mostrar todos los libro
      *
      * @return los libros disponibles
      *

@@ -37,9 +37,5 @@ public class Principal {
         Libro odisea = new Libro("La Odisea","Homero",448);
         bibliotecaKonradLorenz.registrarLibro(odisea);
 
-
-
-
-
     }
 }

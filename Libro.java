@@ -55,7 +55,6 @@ public class Libro {
     }
     /**
      * Mètodo getter que permite cambiar el título del libro
-     * @return título del libro
      *
      * complejidad temporal: 0(1) tiempo constante
      */
@@ -64,7 +63,6 @@ public class Libro {
     }
     /**
      * Mètodo getter que permite cambiar el autor del libro
-     * @return título del libro
      *
      * complejidad temporal: 0(1) tiempo constante
      */
@@ -73,7 +71,6 @@ public class Libro {
     }
     /**
      * Mètodo getter que permite cambiar el número de páginas del libro
-     * @return título del libro
      *
      * complejidad temporal: 0(1) tiempo constante
      */
